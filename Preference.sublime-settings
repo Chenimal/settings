@@ -1,27 +1,10 @@
 {
-    "always_show_minimap_viewport": true,
-    "bold_folder_labels": true,
-    "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
     "default_line_ending": "unix",
-    "draw_minimap_border": true,
     "draw_white_space": "all",
     "ensure_newline_at_eof_on_save": true,
-    "fallback_encoding": "gbk2312",
-    "folder_exclude_patterns":
-    [
-        ".svn",
-        ".git",
-        ".hg",
-        "CVS",
-        "__pycache__"
-    ],
-    "font_options":
-    [
-        "gray_antialias",
-        "subpixel_antialias"
-    ],
-    "font_size": 13,
-    "highlight_line": true,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "word_wrap": false,
     "ignored_packages":
     [
         "Vintage"
@@ -30,14 +13,5 @@
     [
         "draw_normal",
         "draw_active"
-    ],
-    "line_padding_bottom": 3,
-    "line_padding_top": 3,
-    "overlay_scroll_bars": "enabled",
-    "preview_on_click": false,
-    "save_on_focus_lost": true,
-    "theme": "Default.sublime-theme",
-    "translate_tabs_to_spaces": true,
-    "trim_trailing_white_space_on_save": true,
-    "word_wrap": false
+    ]
 }
